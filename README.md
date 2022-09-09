@@ -1,4 +1,4 @@
-### NOTE
+## NOTE
 
 This project was implemented using this api
 [https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts)
