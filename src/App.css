@@ -1,0 +1,24 @@
+.App {
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+h3,
+p {
+	margin: 0;
+}
+
+.contentContainer {
+	max-width: 500px;
+	margin: 0 auto;
+	padding: 0;
+	margin-top: 25px;
+}
+
+.container_item {
+	background-color: aquamarine;
+	width: 100%;
+	padding: 0;
+	margin-top: 10px;
+	border: 1px solid gray;
+}
